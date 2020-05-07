@@ -20,5 +20,4 @@
     "types": ["node"] 
   },
   "files": ["src/index.ts"],
-  "include": ["../ng/src/**/*"],
 }

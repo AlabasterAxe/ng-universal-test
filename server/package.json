@@ -14,5 +14,8 @@
     "@angular/platform-browser-dynamic": "~9.0.3",
     "@angular/router": "~9.0.3",
     "zone.js": "~0.10.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6"
   }
 }
