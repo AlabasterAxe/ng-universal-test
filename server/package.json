@@ -1,8 +1,8 @@
 {
-  "main": "dist/out-tsc/server/src/index.js",
+  "main": "dist/out-tsc/index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node ./dist/out-tsc/server/src/index.js"
+    "start": "node ./dist/out-tsc/index.js"
   },
   "dependencies": {
     "@types/node": "^13.7.7",

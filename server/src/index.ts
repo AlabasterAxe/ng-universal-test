@@ -1,7 +1,7 @@
 import { join } from 'path';
 import express from 'express';
 
-const { app } = require('../../../../../ng/dist/ng-universal-test/server/main');
+const { app } = require('../../../ng/dist/ng-universal-test/server/main');
 
 const baseServer = express();
 
